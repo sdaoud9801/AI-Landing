@@ -276,11 +276,10 @@ body {
         grid-column: 3/5;
         grid-row: 4/5;
         flex-direction: row;
-        max-height: 300px;
     }
 
     .growth > img {
-        max-height: 200px;
+        max-height: 400px;
     }
 
     .audience-growth {
